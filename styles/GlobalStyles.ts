@@ -1,0 +1,41 @@
+export const GlobalStyles = {
+  FontFamily: {
+    robotoRegular: "Roboto_regular",
+    robotoBold: "Roboto_bold",
+    robotoMedium: "Roboto_medium",
+  },
+  FontSize: {
+    size_3xs: 10,
+    size_sm: 14,
+    size_xs: 12,
+    size_base: 16,
+    size_13xl: 32,
+  },
+  Color: {
+    white: "#fff",
+    whitesmoke_100: "#f5f5f5",
+    whitesmoke_200: "#f0f0f0",
+    gray_100: "#808080",
+    gray_200: "#1a1a1a",
+    gray_300: "rgba(0, 0, 0, 0.3)",
+    gray_400: "rgba(0, 0, 0, 0.87)",
+    typePrimary: "rgba(0, 0, 0, 0.9)",
+    gray_500: "rgba(0, 0, 0, 0.7)",
+    gainsboro: "#d9d9d9",
+  },
+  Padding: {
+    p_3xs: 10,
+    p_xs: 12,
+    p_9xs: 4,
+    p_12xs: 1,
+    p_5xs: 8,
+    p_11xs: 2,
+  },
+  Border: {
+    br_5xs: 8,
+    br_7xs: 6,
+    br_11xs: 2,
+    br_5xl: 24,
+    br_81xl: 100,
+  },
+};
